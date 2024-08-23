@@ -1,6 +1,6 @@
 # Hi all! 👋
 
-I am the author of [@easy-temps](https://github.com/easy-temps), you can also see the open source projects I am involved in [on my-prs website](https://prs.charlee.site/).
+I am the author of [@easy-temps](https://github.com/easy-temps), you can also see the open source projects I contributed to [on my-prs website](https://prs.charlee.site/).
 
 I love open source. I am currently learning Nestjs and making my own product.
 
